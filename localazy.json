@@ -1,0 +1,15 @@
+{
+ 
+    "writeKey": "a7972429302195479286-95256b8b9d91606ee9fc96e7d9052ca1a4db4e508a1b328f73c1cc585e873a7d",
+    "readKey": "a7972429302195479286-37684d61df68ea58a81617c58dd6037104d961bbe95b3d1883d5a6de1479df1c",
+    
+    "upload": {  
+      "type": "php",
+      "files": "lang/en/custom.php"         
+    },
+    
+    "download": {
+      "files": "lang/de/${lang}.php"
+    }
+    
+  }
